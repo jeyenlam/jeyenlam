@@ -7,8 +7,6 @@
 
 📫 How to reach me **jeyenlam@gmail.com**
 
-⚡ Fun fact **I'm big on Korean everything**
-
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
