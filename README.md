@@ -1,13 +1,6 @@
 <h1 align="center">Hey, this is Yen Lam</h1>
 <h3 align="center">A Comp Sci. student at Grand Valley State University</h3>
 
-🌱 I’m currently learning **D3.js**
-
-💬 Ask me about **Web Development**
-
-📫 How to reach me **jeyenlam@gmail.com**
-
-
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/jeyenlam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeyenlam" height="30" width="40" /></a>
