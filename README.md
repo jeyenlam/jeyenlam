@@ -1,4 +1,4 @@
-<p> Hi, this is Yen, currently web dev focused </p>
+<p> Hi, this is Yen, an aspiring swe that is currently full-stack-dev-focused
 <h4>Languages and Tools I work with:</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -24,7 +24,6 @@
 
 <h4>Find me via:</h4>
 <p>
-    <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="https://codepen.io/jeyenlam" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/jeyenlam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
