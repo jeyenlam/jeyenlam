@@ -1,4 +1,4 @@
-<p> Hi, this is Yen, an aspiring swe that is currently full-stack-dev-focused
+<p> Hi, this is Yen, an aspiring swe that is currently full-stack-web-dev-focused
 <h4>Languages and Tools I work with:</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
