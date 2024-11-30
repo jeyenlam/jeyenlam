@@ -22,5 +22,6 @@
   <img alt='Flask' src='https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white' />
   <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black' />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white" />
   <img alt='Netlify' src='https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white' />
 </p>
